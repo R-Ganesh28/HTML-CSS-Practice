@@ -17,3 +17,10 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Experimented with text styles similar to those used in advertisements and news sites
 - Outcome:
   - Gained a better understanding of how small CSS details like spacing, transitions, and hover timing contribute to professional-looking UI designs.
+
+### 📅 Day 3 – Re-Design
+- Topics Covered:
+  - Layouts, Buttons, text styles, etc.,
+- what I Practiced:
+  - Re-created Ride Request Option of UBER.
+  - Recreated Google Homepage without alignment.
