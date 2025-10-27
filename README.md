@@ -21,6 +21,15 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
 ### 📅 Day 3 – Re-Design
 - Topics Covered:
   - Layouts, Buttons, text styles, etc.,
-- what I Practiced:
+- What I Practiced:
   - Re-created Ride Request Option of UBER.
   - Recreated Google Homepage without alignment.
+
+### 📅 Day 4 – Re-Design with exact layout
+- Topics Covered:
+  - Div tag,
+- What I Learned:
+  - Recreated the design of Twitter Chat option using div tag.
+  - Redesigned "Add a friend" Option using div tag.
+  - And Basics of div tag option.
+
