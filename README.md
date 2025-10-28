@@ -32,4 +32,4 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Recreated the design of Twitter Chat option using div tag.
   - Redesigned "Add a friend" Option using div tag.
   - And Basics of div tag option.
-
+### 📆 Day 5 - Rest Day
