@@ -39,4 +39,5 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Div tag,
 - What I Practiced:
   - Recreated the design of Profile option using div tag.
+  - Recreated the design of 3 aligned Profile option using div tag.
 
