@@ -41,4 +41,5 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Recreated the design of Profile option using div tag.
   - Recreated the design of 3 aligned Profile option using div tag.
   - Recreated the design of YouTube Playlist using nested layout div tag.
+  - Recreated the design of 3 aligned Add Friend option using nested layout div tag.
 
