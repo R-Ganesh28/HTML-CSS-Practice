@@ -43,3 +43,8 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Recreated the design of YouTube Playlist using nested layout div tag.
   - Recreated the design of 3 aligned Add Friend option using nested layout div tag.
 
+### 📆 Day 6 - Nested Layout
+- Topics Covered:
+  - Div tag, Grid property
+- What I Practiced:
+  - Practiced css grid property using two coloured column and rows.
