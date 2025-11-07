@@ -48,3 +48,4 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Div tag, Grid property
 - What I Practiced:
   - Practiced css grid property using two coloured column and rows.
+  - Replaced display: inline-block; using css grid in Add Friend option.(Day-6)
