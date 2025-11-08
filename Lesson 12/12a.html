@@ -1,0 +1,46 @@
+<!-- Create a Flexbox -->
+
+<!DOCTYPE HTML>
+<html>
+    <head><title>Flex Box Practice</title></head>
+    <body>
+        <!-- FlexBox with 200px and 75px -->
+        <div style="display: flex;">
+            <div style="background-color: lightblue; width: 200px;">200px</div>
+            <div style="background-color: lightpink; width: 75px;">75px</div>
+        </div>
+
+        <!-- A flex with 3 width 50px, remaining space and 75px -->
+        <div style=" margin-top: 20px;
+        display: flex;">
+            <div style="background-color: lightpink; width: 50px;">50px</div>
+            <div style="background-color: lightblue; flex: 1;">remaining space: flex = 1</div>
+            <div style="background-color: lightpink; width: 75px;">75px</div>
+        </div>
+
+        <!-- A flexbox with 4 items spread evenly accross the page. -->
+        <div style="
+        margin-top: 20px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: gray;
+        display: flex;
+        justify-content: space-between;">
+            <div style="background-color: lightblue;">item 1</div>
+            <div style="background-color: lightpink;">item 2</div>
+            <div style="background-color: lightblue;">item 3</div>
+            <div style="background-color: lightpink;">item 4</div>
+        </div>
+
+        <!-- Create a flex with height = 50px and a gray border 2 items -->
+        <div style="height: 50px;
+        border: 1px solid gray;
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;">
+            <div style="background-color: lightpink;">item 1</div>
+            <div style="background-color: lightpink;">item 2</div>
+        </div>
+    </body>
+</html>

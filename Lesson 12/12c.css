@@ -1,0 +1,48 @@
+
+.header{
+    font-family: Arial;
+    background-color: purple;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-section {
+    color: white;
+    width: 50px;
+    padding-left: 10px;
+    margin-right: 40px;
+}
+
+.middle-section {
+    flex: 1;
+    max-width: 400px;
+    margin-right: 20px;
+}
+
+.right-section {
+    width: 120px;
+}
+
+input {
+    width: 100%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+button{
+    color: white;
+    background-color: purple;
+    border: 1px solid white;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
