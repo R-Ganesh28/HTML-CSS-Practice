@@ -49,3 +49,14 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
 - What I Practiced:
   - Practiced css grid property using two coloured column and rows.
   - Replaced display: inline-block; using css grid in Add Friend option.(Day-6)
+
+### 📆 Day 8 - CSS Flexbox Property
+- Topics Covered:
+  - Div tag, Flexbox property
+- What I Practiced:
+  - Practiced css flex property using two coloured rows.
+  - Practiced css flex property using home, notification, message in a box.
+  - Designed a NavBar option using flex property like Home, Search bar and Download.
+  - Replaced CSS Grid Property using CSS Flex Property in the design of Profile option.
+
+
