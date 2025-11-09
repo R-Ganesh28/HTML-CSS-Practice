@@ -59,4 +59,12 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Designed a NavBar option using flex property like Home, Search bar and Download.
   - Replaced CSS Grid Property using CSS Flex Property in the design of Profile option.
 
+### 📆 Day 9 - Nested Flexbox
+- Topics Covered:
+  - Div tag, Flexbox property
+- What I Practiced:
+  - Practiced css flex property using two coloured rows.
+  - Designed a Gmail IOS 1 - Inbox option using flexbox Nested Layout.
+  - Designed a Gmail IOS 3 aligned Inbox option using flexbox Nested Layout.
+
 
