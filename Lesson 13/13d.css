@@ -1,0 +1,84 @@
+.tweet {
+    border: 1px solid  gray;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 4px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.profile-picture-column {
+
+    width:70px;
+    padding-top: 6px;
+    padding-right: 10px;
+}
+.profile-picture {
+    width: 100%;
+    border-radius: 35px;
+    object-fit: cover;
+}
+
+.tweet-column {
+    font-family: Arial;
+}
+
+.tweet-header {
+    display: flex;
+    flex-direction: row;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 4px;
+}
+
+.tweet-author-name {
+    font-weight: bold;
+    padding-right: 4px;
+}
+
+.tweet-author-handle {
+    color: gray;
+}
+.tweet-content {
+    padding-bottom: 10px;
+    line-height: 22px;
+}
+
+.video-preview {
+    border: 1px solid rgb(220, 220, 220);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+.video-preview:hover {
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+
+.thumbnail-column {
+    border: none;
+    width: 175px;
+    height: 100px;
+    background-color: rgb(220, 220, 220);
+}
+
+.video-info-column {
+    padding-left: 10px;
+}
+
+.video-website {
+    margin-bottom: 6px;
+    color: gray;
+}
+
+.video-title {
+    line-height: 22px;
+}
