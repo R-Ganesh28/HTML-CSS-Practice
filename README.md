@@ -66,5 +66,15 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Practiced css flex property using two coloured rows.
   - Designed a Gmail IOS 1 - Inbox option using flexbox Nested Layout.
   - Designed a Gmail IOS 3 aligned Inbox option using flexbox Nested Layout.
+  - Designed a twitter tweet option using flexbox nested layout.
+- Outcome:
+  - Use Nested layout Technique (Horizontal & Vertical layouts) 
+
+
+
+
+
+
+
 
 
