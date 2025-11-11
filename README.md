@@ -70,6 +70,14 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
 - Outcome:
   - Use Nested layout Technique (Horizontal & Vertical layouts) 
 
+### 📆 Day 10 - CSS Position Property
+- Topics Covered:
+  - Div tag, Position property
+- What I Practiced:
+  - Practiced an element that sticks to the page when scrolling.
+  - Designed a sidebar on the right side of the page width 100px.
+  - Designed an overlay and created a pop up option using flexbox.
+
 
 
 
