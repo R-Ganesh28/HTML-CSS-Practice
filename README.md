@@ -77,6 +77,7 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Practiced an element that sticks to the page when scrolling.
   - Designed a sidebar on the right side of the page width 100px.
   - Designed an overlay and created a pop up option using flexbox.
+  - Designed a header section with profile picture, name, add friend button, message button.
 
 
 
