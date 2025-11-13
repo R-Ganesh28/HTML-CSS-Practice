@@ -1,0 +1,59 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+.first-left-sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 70px;
+    background-color: rgb(37, 37, 37);
+}
+
+.picture-section {
+    width: 50px;
+    object-fit: cover;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.profile-picture {
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.second-left-sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 70px;
+    width: 150px;
+    background-color: rgb(48, 48, 48);
+}
+
+.title-container {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.container-section {
+    color: gray;
+    padding-left: 15px;
+}
+
+.faq-section,
+.updates-section,
+.video-section {
+    padding-bottom: 15px;
+}
