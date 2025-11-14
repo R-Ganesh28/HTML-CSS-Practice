@@ -1,0 +1,58 @@
+body {
+    height: 3000px;
+}
+
+.close-button-div {
+    font-family: Arial;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: white;
+    background-color: black;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.empty-box {
+    background-color: gray;
+    width: 320px;
+    height: 180px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.close-button {
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: -18px;
+    left: -18px;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timestamp{
+    font-family: arial;
+    font-size: 18px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding-right: 6px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    padding-top: 2px;
+    background-color: black;
+    color: white;
+}
