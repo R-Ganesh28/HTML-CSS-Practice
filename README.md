@@ -98,6 +98,7 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
 - What I Practiced:
   - Created a tooltip when hover on a image, button, etc.,
   - Practiced tooltip in Buttons from Lesson 4 and YouTube video type from Lesson 10.
+  - Learned about Responsive design (Media Query), Semantics, CSS shorthand properties, Inheritance, pointer-events, whitespaces, etc., 
 
 
 
