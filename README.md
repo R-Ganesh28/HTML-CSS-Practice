@@ -5,12 +5,12 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
 
 ## ✅ Daily Progress
 
-### 📅 Day 1 – Basics
+### 📅 Day 1 – HTML Basics
 - Learned Button, Paragragh, HyperLink
 - Practiced:
   - Button, paragraph, HyperLink with css properties.
 
-### 📅 Day 2 – Basics
+### 📅 Day 2 – CSS Basics
 - Topics Covered:
   - Hover effects, transitions, text styling, CSS box model and image styling
 - What I Practiced:
