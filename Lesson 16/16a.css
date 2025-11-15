@@ -1,0 +1,146 @@
+/*
+LinkedIn button from Lesson 4
+*/
+
+.Linkedin-Apply{
+        color: white;
+        background-color: rgb(10, 102, 194);
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border: none;
+        border-radius: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-right: 8px;
+        cursor: pointer;
+        transition: opacity, background-color 0.15s;
+}
+
+.Linkedin-Apply:hover {
+    background-color: rgb(0, 84, 168);
+}
+
+.Linkedin-Save{
+        color: rgb(10, 102, 194);
+        background-color: white;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-color: rgb(10, 102, 194);
+        border-style: solid;
+        border-radius: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        cursor: pointer;
+        transition: opacity, background-color 0.15s;
+}
+.Linkedin-Save:hover{
+    background-color: rgb(197, 219, 241);
+}
+.Lesson-4 {
+    display: flex;
+    align-items: center;
+}
+.Linkedin-Apply,
+.Linkedin-Save {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.Linkedin-Save .tooltip,
+.Linkedin-Apply .tooltip {
+    font-family: Arial;
+    background-color: gray;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 4px;
+    padding-right: 10px;
+    padding-top: 4px;
+    position: absolute;
+    bottom: -28px;
+    border-radius: 3px;
+    opacity: 0;
+    pointer-events: none;
+    white-space: nowrap;
+    z-index: 100;
+}
+
+.Linkedin-Save:hover .tooltip,
+.Linkedin-Apply:hover .tooltip {
+    opacity: 1;
+}
+
+
+
+/*
+Youtube video from Lesson 10
+*/
+.section-div {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.15s;
+}
+.section-div:hover {
+    background-color: whitesmoke;
+}
+
+.thumbnail {
+    width: 160px;
+    display: inline-block;
+}
+
+.video-info,
+.video-owner {
+    color: gray;
+    margin-bottom: 4px;
+    margin-top: 0px;
+    font-size: 13px;
+}
+
+.video-preview, 
+.image-div {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.video-preview .tooltip,
+.image-div .tooltip {
+    font-family: arial;
+    font-size: 12px;
+    position: absolute;
+    bottom: -30px;
+    background-color: gray;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    padding-top: 6px;
+    border-radius: 2px;
+    opacity: 0;
+    pointer-events: none;
+    white-space: nowrap;
+    transition: opacity 0.15s;
+}
+
+.video-preview:hover .tooltip,
+.image-div:hover .tooltip {
+    opacity: 1;
+}
+
+.video-div {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 200px;
+}
