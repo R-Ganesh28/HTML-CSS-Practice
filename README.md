@@ -70,7 +70,7 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Designed a Gmail IOS 3 aligned Inbox option using flexbox Nested Layout.
   - Designed a twitter tweet option using flexbox nested layout.
 - Outcome:
-  - Use Nested layout Technique (Horizontal & Vertical layouts) 
+  - Use Nested layout Technique (Horizontal & Vertical layouts) to get better understanding.
 
 ### 📆 Day 10 - CSS Position Property
 - Topics Covered:
@@ -82,7 +82,7 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Designed a header section with profile picture, name, add friend button, message button.
   - Designed a Discord double sidebar with css position, and css flexbox.
 
-### 📆 Day 10 - CSS Position - relative, absolute Property
+### 📆 Day 11 - CSS Position - relative, absolute Property
 - Topics Covered:
   - Div tag, relative, absolute.
 - What I Practiced:
@@ -92,7 +92,12 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Imagine the above is a video ad in the bottom right corner. Add a timestamp in the corner like this design.
   - Using in cloth images like "Discount" and "Add to cart" option.
 
-
+### 📆 Day 12 - Finishing
+- Topics Covered:
+  - Tooltip
+- What I Practiced:
+  - Created a tooltip when hover on a image, button, etc.,
+  - Practiced tooltip in Buttons from Lesson 4 and YouTube video type from Lesson 10.
 
 
 
