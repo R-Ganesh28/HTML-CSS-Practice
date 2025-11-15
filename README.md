@@ -90,6 +90,7 @@ A collection of hands-on HTML and CSS practice projects to strengthen front-end 
   - Using position:fixed, stick a div (width:320px and height:180px) near the bottom-right of the page. Close button put it inside the div created now.
   - Using position: absolute inside position fixed move the close button to the top-left corner. Using negative px for top and left and adjust the sizing if needed.
   - Imagine the above is a video ad in the bottom right corner. Add a timestamp in the corner like this design.
+  - Using in cloth images like "Discount" and "Add to cart" option.
 
 
 
